@@ -1,0 +1,4 @@
+title "FIFTY-FIRST STATE"
+author Hilary Bailey
+year 2012
+format paperback
